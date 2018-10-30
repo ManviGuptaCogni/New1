@@ -1,0 +1,1 @@
+Hi. This is a sample file to test pushing it in Git.
